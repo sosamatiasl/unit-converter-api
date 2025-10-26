@@ -1,0 +1,12 @@
+# Directorios de Build
+[Bb]in/
+[Oo]bj/
+
+# Carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+
+# Archivos de paquetes NuGet
+*.nupkg
+.DS_Store
